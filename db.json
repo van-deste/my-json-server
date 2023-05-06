@@ -1,0 +1,35 @@
+{
+  "users": [
+    
+    {
+      "username": "johndoe",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@test.com",
+      "country": "US",
+      "postalCode": "32003",
+      "region": "Florida",
+      "phoneNumber": "123456789"
+    },
+    {
+      "username": "michael",
+      "firstName": "Michael",
+      "lastName": "Watson",
+      "email": "mwatson@test.com",
+      "country": "US",
+      "postalCode": "90002",
+      "region": "California",
+      "phoneNumber": "987654321"
+    },
+    {
+      "username": "collins",
+      "firstName": "Edward",
+      "lastName": "Collins",
+      "email": "collins@test.com",
+      "country": "US",
+      "postalCode": "3264",
+      "region": "Chicago",
+      "phoneNumber": "543219876"
+    },
+  ]
+}
