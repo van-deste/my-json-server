@@ -30,6 +30,96 @@
       "postalCode": "3264",
       "region": "Chicago",
       "phoneNumber": "543219876"
+    },
+    {
+      "username": "janedoe",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "jane@test.com",
+      "country": "CA",
+      "postalCode": "V5R 5W2",
+      "region": "British Columbia",
+      "phoneNumber": "987654321"
+    },
+    {
+      "username": "bobsmith",
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "email": "bob@test.com",
+      "country": "US",
+      "postalCode": "90210",
+      "region": "California",
+      "phoneNumber": "5551234567"
+    },
+    {
+      "username": "amandajones",
+      "firstName": "Amanda",
+      "lastName": "Jones",
+      "email": "amanda@test.com",
+      "country": "GB",
+      "postalCode": "W1T 7NF",
+      "region": "London",
+      "phoneNumber": "4478965412"
+    },
+    {
+      "username": "davidlee",
+      "firstName": "David",
+      "lastName": "Lee",
+      "email": "david@test.com",
+      "country": "AU",
+      "postalCode": "2000",
+      "region": "New South Wales",
+      "phoneNumber": "61412345678"
+    },
+    {
+      "username": "sarahjackson",
+      "firstName": "Sarah",
+      "lastName": "Jackson",
+      "email": "sarah@test.com",
+      "country": "US",
+      "postalCode": "60610",
+      "region": "Illinois",
+      "phoneNumber": "3125551212"
+    },
+    {
+      "username": "mikebrown",
+      "firstName": "Mike",
+      "lastName": "Brown",
+      "email": "mike@test.com",
+      "country": "CA",
+      "postalCode": "M5S 2B4",
+      "region": "Ontario",
+      "phoneNumber": "6475551234"
+    },
+    {
+      "username": "kellychen",
+      "firstName": "Kelly",
+      "lastName": "Chen",
+      "email": "kelly@test.com",
+      "country": "US",
+      "postalCode": "10001",
+      "region": "New York",
+      "phoneNumber": "2125557890"
+    },
+    {
+      "username": "johnsmith",
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "jsmith@test.com",
+      "country": "CA",
+      "postalCode": "H2Y 2G3",
+      "region": "Quebec",
+      "phoneNumber": "5145551212"
+    },
+    {
+      "username": "annawong",
+      "firstName": "Anna",
+      "lastName": "Wong",
+      "email": "anna@test.com",
+      "country": "US",
+      "postalCode": "94107",
+      "region": "California",
+      "phoneNumber": "4155559876"
     }
   ]
 }
