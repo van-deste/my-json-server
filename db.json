@@ -121,5 +121,37 @@
       "region": "California",
       "phoneNumber": "4155559876"
     }
-  ]
+  ],
+  "donation":[
+  {
+    "id": 1,
+    "name": "Maxmal",
+    "value": 1000
+  },
+  {
+    "id": 1,
+    "name": "Aurea",
+    "value": 1500
+  },
+  {
+    "id": 1,
+    "name": "Emerencia",
+    "value": 2000
+  },
+  {
+    "id": 1,
+    "name": "Eliana",
+    "value": 1800
+  },
+  {
+    "id": 1,
+    "name": "Glory",
+    "value": 3000
+  },
+  {
+    "id": 1,
+    "name": "Rosa",
+    "value": 2500
+  }
+]
 }
