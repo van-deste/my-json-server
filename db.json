@@ -10,7 +10,8 @@
     "region": "Florida",
     "phoneNumber": "123456789",
     "password": "12345",
-    "isOrganization": false
+    "isOrganization": false,
+    "isAdmin": true
   },
   {
     "username": "johndoe",
@@ -23,7 +24,7 @@
     "phoneNumber": "09808754567",
     "password": "12345",
     "isOrganization": false,
-    "isAdmin": true
+    "isAdmin": false
   },
   {
     "username": "michael",
