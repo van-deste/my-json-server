@@ -1,157 +1,172 @@
 {
   "users": [
-    
-    {
-      "username": "johndoe",
-      "firstName": "John",
-      "lastName": "Doe",
-      "email": "john@test.com",
-      "country": "US",
-      "postalCode": "32003",
-      "region": "Florida",
-      "phoneNumber": "123456789"
-    },
-    {
-      "username": "michael",
-      "firstName": "Michael",
-      "lastName": "Watson",
-      "email": "mwatson@test.com",
-      "country": "US",
-      "postalCode": "90002",
-      "region": "California",
-      "phoneNumber": "987654321"
-    },
-    {
-      "username": "collins",
-      "firstName": "Edward",
-      "lastName": "Collins",
-      "email": "collins@test.com",
-      "country": "US",
-      "postalCode": "3264",
-      "region": "Chicago",
-      "phoneNumber": "543219876"
-    },
-    {
-      "username": "janedoe",
-      "firstName": "Jane",
-      "lastName": "Doe",
-      "email": "jane@test.com",
-      "country": "CA",
-      "postalCode": "V5R 5W2",
-      "region": "British Columbia",
-      "phoneNumber": "987654321"
-    },
-    {
-      "username": "bobsmith",
-      "firstName": "Bob",
-      "lastName": "Smith",
-      "email": "bob@test.com",
-      "country": "US",
-      "postalCode": "90210",
-      "region": "California",
-      "phoneNumber": "5551234567"
-    },
-    {
-      "username": "amandajones",
-      "firstName": "Amanda",
-      "lastName": "Jones",
-      "email": "amanda@test.com",
-      "country": "GB",
-      "postalCode": "W1T 7NF",
-      "region": "London",
-      "phoneNumber": "4478965412"
-    },
-    {
-      "username": "davidlee",
-      "firstName": "David",
-      "lastName": "Lee",
-      "email": "david@test.com",
-      "country": "AU",
-      "postalCode": "2000",
-      "region": "New South Wales",
-      "phoneNumber": "61412345678"
-    },
-    {
-      "username": "sarahjackson",
-      "firstName": "Sarah",
-      "lastName": "Jackson",
-      "email": "sarah@test.com",
-      "country": "US",
-      "postalCode": "60610",
-      "region": "Illinois",
-      "phoneNumber": "3125551212"
-    },
-    {
-      "username": "mikebrown",
-      "firstName": "Mike",
-      "lastName": "Brown",
-      "email": "mike@test.com",
-      "country": "CA",
-      "postalCode": "M5S 2B4",
-      "region": "Ontario",
-      "phoneNumber": "6475551234"
-    },
-    {
-      "username": "kellychen",
-      "firstName": "Kelly",
-      "lastName": "Chen",
-      "email": "kelly@test.com",
-      "country": "US",
-      "postalCode": "10001",
-      "region": "New York",
-      "phoneNumber": "2125557890"
-    },
-    {
-      "username": "johnsmith",
-      "firstName": "John",
-      "lastName": "Smith",
-      "email": "jsmith@test.com",
-      "country": "CA",
-      "postalCode": "H2Y 2G3",
-      "region": "Quebec",
-      "phoneNumber": "5145551212"
-    },
-    {
-      "username": "annawong",
-      "firstName": "Anna",
-      "lastName": "Wong",
-      "email": "anna@test.com",
-      "country": "US",
-      "postalCode": "94107",
-      "region": "California",
-      "phoneNumber": "4155559876"
-    }
-  ],
-  "donation":[
   {
-    "id": 1,
-    "name": "Maxmal",
-    "value": 1000
+    "username": "admin",
+    "firstName": "Admin",
+    "lastName": "Admin",
+    "email": "admin@test.com",
+    "country": "US",
+    "postalCode": "32003",
+    "region": "Florida",
+    "phoneNumber": "123456789",
+    "password": "12345",
+    "isOrganization": false
   },
   {
-    "id": 1,
-    "name": "Aurea",
-    "value": 1500
+    "username": "johndoe",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john@test.com",
+    "country": "US",
+    "postalCode": "32003",
+    "region": "Florida",
+    "phoneNumber": "09808754567",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": true
   },
   {
-    "id": 1,
-    "name": "Emerencia",
-    "value": 2000
+    "username": "michael",
+    "firstName": "Michael",
+    "lastName": "Watson",
+    "email": "mwatson@test.com",
+    "country": "US",
+    "postalCode": "90002",
+    "region": "California",
+    "phoneNumber": "987654321",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
   },
   {
-    "id": 1,
-    "name": "Eliana",
-    "value": 1800
+    "username": "collins",
+    "firstName": "Edward",
+    "lastName": "Collins",
+    "email": "collins@test.com",
+    "country": "US",
+    "postalCode": "3264",
+    "region": "Chicago",
+    "phoneNumber": "543219876",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
   },
   {
-    "id": 1,
-    "name": "Glory",
-    "value": 3000
+    "username": "janedoe",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "jane@test.com",
+    "country": "CA",
+    "postalCode": "V5R 5W2",
+    "region": "British Columbia",
+    "phoneNumber": "987654321",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
   },
   {
-    "id": 1,
-    "name": "Rosa",
-    "value": 2500
+    "username": "bobsmith",
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "email": "bob@test.com",
+    "country": "US",
+    "postalCode": "90210",
+    "region": "California",
+    "phoneNumber": "5551234567",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
+  },
+  {
+    "username": "amandajones",
+    "firstName": "Amanda",
+    "lastName": "Jones",
+    "email": "amanda@test.com",
+    "country": "GB",
+    "postalCode": "W1T 7NF",
+    "region": "London",
+    "phoneNumber": "4478965412",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
+  },
+  {
+    "username": "davidlee",
+    "firstName": "David",
+    "lastName": "Lee",
+    "email": "david@test.com",
+    "country": "AU",
+    "postalCode": "2000",
+    "region": "New South Wales",
+    "phoneNumber": "61412345678",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
+  },
+  {
+    "username": "sarahjackson",
+    "firstName": "Sarah",
+    "lastName": "Jackson",
+    "email": "sarah@test.com",
+    "country": "US",
+    "postalCode": "60610",
+    "region": "Illinois",
+    "phoneNumber": "3125551212",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
+  },
+  {
+    "username": "mikebrown",
+    "firstName": "Mike",
+    "lastName": "Brown",
+    "email": "mike@test.com",
+    "country": "CA",
+    "postalCode": "M5S 2B4",
+    "region": "Ontario",
+    "phoneNumber": "6475551234",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
+  },
+  {
+    "username": "kellychen",
+    "firstName": "Kelly",
+    "lastName": "Chen",
+    "email": "kelly@test.com",
+    "country": "US",
+    "postalCode": "10001",
+    "region": "New York",
+    "phoneNumber": "2125557890",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
+  },
+  {
+    "username": "johnsmith",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "jsmith@test.com",
+    "country": "CA",
+    "postalCode": "H2Y 2G3",
+    "region": "Quebec",
+    "phoneNumber": "5145551212",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
+  },
+  {
+    "username": "annawong",
+    "firstName": "Anna",
+    "lastName": "Wong",
+    "email": "anna@test.com",
+    "country": "US",
+    "postalCode": "94107",
+    "region": "California",
+    "phoneNumber": "4155559876",
+    "password": "12345",
+    "isOrganization": false,
+    "isAdmin": false
   }
 ],
  "news": [
