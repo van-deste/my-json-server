@@ -153,5 +153,37 @@
     "name": "Rosa",
     "value": 2500
   }
-]
+],
+  "news": [
+    {
+      "id": 1,
+      "title": "Breaking News 1",
+      "content": "This is the content of breaking news 1.",
+      "date": "2023-07-04"
+    },
+    {
+      "id": 2,
+      "title": "Breaking News 2",
+      "content": "This is the content of breaking news 2.",
+      "date": "2023-07-05"
+    },
+    {
+      "id": 3,
+      "title": "New Feature Announcement",
+      "content": "We are excited to announce a new feature for our users.",
+      "date": "2023-07-06"
+    },
+    {
+      "id": 4,
+      "title": "Upcoming Event",
+      "content": "Don't miss our upcoming event on July 10th. Save the date!",
+      "date": "2023-07-08"
+    },
+    {
+      "id": 5,
+      "title": "Important Notice",
+      "content": "Please be advised of the changes in our operating hours.",
+      "date": "2023-07-10"
+    }
+  ]
 }
