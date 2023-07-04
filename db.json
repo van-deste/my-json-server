@@ -154,36 +154,46 @@
     "value": 2500
   }
 ],
-  "news": [
+ "news": [
     {
       "id": 1,
-      "title": "Breaking News 1",
-      "content": "This is the content of breaking news 1.",
-      "date": "2023-07-04"
-    },
-    {
-      "id": 2,
-      "title": "Breaking News 2",
-      "content": "This is the content of breaking news 2.",
+      "title": "News 1",
+      "description": "This is the description for News 1",
+      "imageUrl": "https://github.com/van-deste/my-json-server/raw/main/News/News_img1.jpeg",
+      "author": "Author 1",
       "date": "2023-07-05"
     },
     {
-      "id": 3,
-      "title": "New Feature Announcement",
-      "content": "We are excited to announce a new feature for our users.",
+      "id": 2,
+      "title": "News 2",
+      "description": "This is the description for News 2",
+      "imageUrl": "https://github.com/van-deste/my-json-server/raw/main/News/News_img2.jpeg",
+      "author": "Author 2",
       "date": "2023-07-06"
     },
     {
+      "id": 3,
+      "title": "News 3",
+      "description": "This is the description for News 3",
+      "imageUrl": "https://github.com/van-deste/my-json-server/raw/main/News/News_img3.jpeg",
+      "author": "Author 3",
+      "date": "2023-07-07"
+    },
+    {
       "id": 4,
-      "title": "Upcoming Event",
-      "content": "Don't miss our upcoming event on July 10th. Save the date!",
+      "title": "News 4",
+      "description": "This is the description for News 4",
+      "imageUrl": "https://github.com/van-deste/my-json-server/raw/main/News/News_img4.jpeg",
+      "author": "Author 4",
       "date": "2023-07-08"
     },
     {
       "id": 5,
-      "title": "Important Notice",
-      "content": "Please be advised of the changes in our operating hours.",
-      "date": "2023-07-10"
+      "title": "News 5",
+      "description": "This is the description for News 5",
+      "imageUrl": "https://github.com/van-deste/my-json-server/raw/main/News/News_img5.png",
+      "author": "Author 5",
+      "date": "2023-07-09"
     }
   ]
 }
