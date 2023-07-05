@@ -230,7 +230,7 @@
   "volunteerings": [
     {
       "id": 1,
-      "date": 2023-06-21",
+      "date": "2023-06-21",
       "title": "Education For All",
       "description": "This campaign could be implemented in countries such as Haiti, Ethiopia, and Bangladesh, where access to clean drinking water is limited and waterborne illnesses are prevalent. Volunteers would work with local organizations and governments to install water filtration systems, dig wells, and educate communities on proper water management and conservation.",
       "country": "Ethiopia",
@@ -241,7 +241,7 @@
     },
     {
       "id": 2,
-      "date": 2023-06-21",
+      "date": "2023-06-21",
       "title": "Hunger Relief",
       "description": "This campaign could be implemented in countries such as Yemen, South Sudan, and Venezuela, where conflict and economic instability have led to widespread food insecurity. Volunteers would help collect and distribute food donations, organize food drives, and work with local farmers and markets to provide fresh produce to those in need.",
       "country": "Yemen",
@@ -252,7 +252,7 @@
     },
     {
       "id": 3,
-      "date": 2023-06-21",
+      "date": "2023-06-21",
       "title": "Clean Water for All",
       "description": "This campaign could be implemented in countries such as Afghanistan, Pakistan, and Nigeria, where access to education is limited, particularly for girls. Volunteers would work with local schools and community organizations to provide resources such as textbooks, school supplies, and teacher training.",
       "country": "Nigeria",
