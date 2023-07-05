@@ -237,7 +237,7 @@
       "time": 6,
       "lat": 8.64989,
       "lng": 39.67542,
-      "imageUrl": 
+      "imageUrl": ""
     },
     {
       "id": 2,
@@ -248,7 +248,7 @@
       "time": 9,
       "lat": 15.88607,
       "lng": 47.69034,
-      "imageUrl": 
+      "imageUrl": ""
     },
     {
       "id": 3,
@@ -259,7 +259,7 @@
       "time": 18,
       "lat": 9.64635,
       "lng": 8.07902,
-      "imageUrl": "Nigeria"
+      "imageUrl": ""
     }
   ]
 }
