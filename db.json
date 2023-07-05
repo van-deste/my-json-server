@@ -173,43 +173,93 @@
  "news": [
     {
       "id": 1,
-      "title": "News 1",
+      "title": "Scientists are now capable of transforming waste into clean fuel.",
       "description": "This is the description for News 1",
       "imageUrl": "https://github.com/van-deste/my-json-server/raw/main/News/News_img1.jpeg",
-      "author": "Author 1",
-      "date": "2023-07-05"
+      "author": "Andreas Thrane",
+      "date": "2023-06-21",
+      "country": "Denmark",
+      "lat": 55.53005,
+      "lng": 10.45304
     },
     {
       "id": 2,
-      "title": "News 2",
+      "title": "Project seeks plants that can grow in hostile environments.",
       "description": "This is the description for News 2",
       "imageUrl": "https://github.com/van-deste/my-json-server/raw/main/News/News_img2.jpeg",
-      "author": "Author 2",
-      "date": "2023-07-06"
+      "author": "Pukhuniniapi Aahmes",
+      "date": "2023-06-21",
+      "country": "Egypt",
+      "lat": 26.76814,
+      "lng": 29.51542
     },
     {
       "id": 3,
-      "title": "News 3",
+      "title": "New solutions reduce crop loss due to diseases and pests.",
       "description": "This is the description for News 3",
       "imageUrl": "https://github.com/van-deste/my-json-server/raw/main/News/News_img3.jpeg",
-      "author": "Author 3",
-      "date": "2023-07-07"
+      "author": "Manuel Murillo",
+      "date": "2023-06-21",
+      "country": "Spain",
+      "lat": 39.48025,
+      "lng": -3.15539
     },
     {
       "id": 4,
-      "title": "News 4",
+      "title": "Scientists create tech to convert seawater into potable water for arid regions.",
       "description": "This is the description for News 4",
       "imageUrl": "https://github.com/van-deste/my-json-server/raw/main/News/News_img4.jpeg",
-      "author": "Author 4",
-      "date": "2023-07-08"
+      "author": "Viggo Bergh",
+      "date": "2023-06-21",
+      "country": "Norway",
+      "lat": 61.92687,
+      "lng": 8.82244
     },
     {
       "id": 5,
-      "title": "News 5",
+      "title": "Innovative solutions produce effective medicines to combat rare genetic diseases.",
       "description": "This is the description for News 5",
       "imageUrl": "https://github.com/van-deste/my-json-server/raw/main/News/News_img5.png",
-      "author": "Author 5",
-      "date": "2023-07-09"
+      "author": "Olivia Andreasson",
+      "date": "2023-07-09",
+      "country": "Sweden",
+      "lat": 64.71346,
+      "lng": 16.34177
+    }
+  ],
+  "volunteerings": [
+    {
+      "id": 1,
+      "date": 2023-06-21",
+      "title": "Education For All",
+      "description": "This campaign could be implemented in countries such as Haiti, Ethiopia, and Bangladesh, where access to clean drinking water is limited and waterborne illnesses are prevalent. Volunteers would work with local organizations and governments to install water filtration systems, dig wells, and educate communities on proper water management and conservation.",
+      "country": "Ethiopia",
+      "time": 6,
+      "lat": 8.64989,
+      "lng": 39.67542,
+      "imageUrl": 
+    },
+    {
+      "id": 2,
+      "date": 2023-06-21",
+      "title": "Hunger Relief",
+      "description": "This campaign could be implemented in countries such as Yemen, South Sudan, and Venezuela, where conflict and economic instability have led to widespread food insecurity. Volunteers would help collect and distribute food donations, organize food drives, and work with local farmers and markets to provide fresh produce to those in need.",
+      "country": "Yemen",
+      "time": 9,
+      "lat": 15.88607,
+      "lng": 47.69034,
+      "imageUrl": 
+    },
+    {
+      "id": 3,
+      "date": 2023-06-21",
+      "title": "Clean Water for All",
+      "description": "This campaign could be implemented in countries such as Afghanistan, Pakistan, and Nigeria, where access to education is limited, particularly for girls. Volunteers would work with local schools and community organizations to provide resources such as textbooks, school supplies, and teacher training.",
+      "country": "Nigeria",
+      "time": 18,
+      "lat": 9.64635,
+      "lng": 8.07902,
+      "imageUrl": Nigeria
     }
   ]
 }
